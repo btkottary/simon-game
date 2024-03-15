@@ -69,7 +69,7 @@ body {
 .play-button:hover {
   background-color:#011F3F;
   color: #FEF2BF;
-  border-width: 5rem;
+  border: solid;
   border-color: #FEF2BF;
 }
 
